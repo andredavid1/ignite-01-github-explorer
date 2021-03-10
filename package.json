@@ -1,0 +1,9 @@
+{
+  "name": "01-github-explorer",
+  "version": "1.0.0",
+  "description": "Sistema desenvolvido durante o Bootcamp Ignite da Rocketseat",
+  "main": "index.js",
+  "repository": "https://github.com/andredavid1/ignite-github-explorer",
+  "author": "André David",
+  "license": "MIT"
+}
